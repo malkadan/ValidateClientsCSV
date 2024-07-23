@@ -1,0 +1,5 @@
+CSVFiles:
+  valid: valids.csv
+  invalid: invalids.csv
+  duplicate: duplicates.csv
+
